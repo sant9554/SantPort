@@ -1,0 +1,28 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+.one{
+    height: 100vh;
+    width: 100%;
+    background-color: red;
+}
+
+.two{
+    height:100vh ;
+    width:200px ;
+    background-color: black;
+}
+
+.three{
+    height: ;
+    width: ;
+    background-color: black;
+}
